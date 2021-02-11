@@ -18,7 +18,7 @@ De même pour la ligne 42 à la ligne 52, ainsi que pour la colonne A,B et C.
 
 De ce fait, nous avons le jeu de données suivant : 
 
-![IMAGE](https://drive.google.com/file/d/1INDGKdixbXco3CfW_MUm3QCkfySZS6-n/view?usp=sharing)
+![Jeu de données](https://www.infolux.fr/wp-content/uploads/2021/02/1.png)
 
 
 Traitement pour obtenir des données homogènes 
@@ -31,42 +31,44 @@ Calcul de la moyenne par mois
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.mean().
 
+![Jeu de données]()
+
 Calcul de l’écart type par mois 
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.std().
 
-
-
+![Jeu de données]()
 
 Calcul du minimum par mois
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.min().
 
+![Jeu de données]()
 
 Calcul du maximum par mois
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.max().
 
+![Jeu de données]()
 
 Calcul du maximum de l’année
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.nanmax(). Cette fonction permet d’ignorer les valeurs NaN afin d’éviter de fausser les calculs statistiques.
 
-
+![Jeu de données]()
 
 Calcul du minimum de l’année
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.nanmin(). Cette fonction permet d’ignorer les valeurs NaN afin d’éviter de fausser les calculs statistiques.
 
+![Jeu de données]()
 
 Affichage des courbes par mois
 
 Pour l’affichage des courbes par mois, nous avons utilisé la librairie pyplot de matplotlib.
 Elle permet des visualisations statiques, animées et interactives.
 
-
-
-
+![Jeu de données]()
 
 
 Affichage de la courbe annuelle
