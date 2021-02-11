@@ -14,7 +14,7 @@ Panda :
 Pandas est une bibliothèque écrite pour le langage de programmation Python, destiné à être le meilleur outil statistique qui soit aussi bien performant, facile d'utilisation et flexible. Cette librairie à l’avantage de pouvoir récupérer des données depuis n’importe quel support (fichiers CSV, tableaux Excel, des pages web, etc…). Cette librairie peut également grouper, découper, alléger, déplacer, écrire les données.
 
 
-# Démarche de résolution
+# Partie 1 : Jeu de données sans erreur
 
 CSV de base : [Climat_si.csv](https://github.com/CortoVilain/TPQualiteDesDonnees/blob/main/climat_si.csv)
 
@@ -105,7 +105,7 @@ Pour afficher les courbes annuelles à l’aide du pointeur, nous avons utilisé
 ![](https://www.infolux.fr/wp-content/uploads/2021/02/24.png)
 ![](https://www.infolux.fr/wp-content/uploads/2021/02/25.png)
 
-II / Jeu de données avec erreur
+# Partie 2 : Jeu de données avec erreur
 CSV avec des erreurs : [si-erreur.csv](https://github.com/CortoVilain/TPQualiteDesDonnees/blob/main/si-erreur.csv)
 
 
