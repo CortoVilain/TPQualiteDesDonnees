@@ -61,7 +61,7 @@ Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.nanmax(). Cette fonction permet d’ignorer les valeurs NaN afin d’éviter de fausser les calculs statistiques.
 
-![](https://www.infolux.fr/wp-content/uploads/2021/02/7.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/8.png)
 
 **Calcul du minimum de l’année**
 
@@ -87,7 +87,6 @@ Elle permet des visualisations statiques, animées et interactives.
 ![](https://www.infolux.fr/wp-content/uploads/2021/02/20.png)
 ![](https://www.infolux.fr/wp-content/uploads/2021/02/21.png)
 ![](https://www.infolux.fr/wp-content/uploads/2021/02/22.png)
-![](https://www.infolux.fr/wp-content/uploads/2021/02/23.png)
 
 
 **Affichage de la courbe annuelle**
@@ -97,14 +96,14 @@ Elle permet des visualisations statiques, animées et interactives.
 
 Nous avons créé un tableau regroupant les données ne comportant pas de NaN pour éviter les trous dans la courbe. En effet les mois ne comportant pas 31 jours comportent des valeurs NaN qui fausseraient la représentation de la courbe.
 
-![](https://www.infolux.fr/wp-content/uploads/2021/02/24.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/23.png)
 
 **Affichage de la courbe à l’aide du pointeur**
 
 Pour afficher les courbes annuelles à l’aide du pointeur, nous avons utilisé la librairie express de plotly.
 
+![](https://www.infolux.fr/wp-content/uploads/2021/02/24.png)
 ![](https://www.infolux.fr/wp-content/uploads/2021/02/25.png)
-![](https://www.infolux.fr/wp-content/uploads/2021/02/26.png)
 
 II / Jeu de données avec erreur
 CSV avec des erreurs : [si-erreur.csv](https://github.com/CortoVilain/TPQualiteDesDonnees/blob/main/si-erreur.csv)
