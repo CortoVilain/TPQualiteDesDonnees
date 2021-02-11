@@ -67,7 +67,7 @@ Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.nanmin(). Cette fonction permet d’ignorer les valeurs NaN afin d’éviter de fausser les calculs statistiques.
 
-![](https://www.infolux.fr/wp-content/uploads/2021/02/8.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/9.png)
 
 **Affichage des courbes par mois**
 
