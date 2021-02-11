@@ -4,8 +4,14 @@
 
 # Outils utilisés
 
+Google Colab : 
+Nous avons choisi d’utiliser Google Colab, car c’est un outil collaboratif, il nous a permis de travailler en groupe sur un fichier commun, et permet donc de garantir l’intégrité dans le code pour l’ensemble de l’équipe. 
 
+Numpy :
+Cette librairie permet d’effectuer des calculs numériques avec Python. Elle introduit une gestion facilitée des tableaux de nombres.
 
+Panda : 
+Pandas est une bibliothèque écrite pour le langage de programmation Python, destiné à être le meilleur outil statistique qui soit aussi bien performant, facile d'utilisation et flexible. Cette librairie à l’avantage de pouvoir récupérer des données depuis n’importe quel support (fichiers CSV, tableaux Excel, des pages web, etc…). Cette librairie peut également grouper, découper, alléger, déplacer, écrire les données.
 
 
 # Démarche de résolution
@@ -18,7 +24,7 @@ De même pour la ligne 42 à la ligne 52, ainsi que pour la colonne A,B et C.
 
 De ce fait, nous avons le jeu de données suivant : 
 
-![Jeu de données](https://www.infolux.fr/wp-content/uploads/2021/02/1.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/1.png)
 
 
 Traitement pour obtenir des données homogènes 
@@ -31,44 +37,57 @@ Calcul de la moyenne par mois
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.mean().
 
-![Jeu de données]()
+![](https://www.infolux.fr/wp-content/uploads/2021/02/2.png)
 
 Calcul de l’écart type par mois 
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.std().
 
-![Jeu de données]()
+![](https://www.infolux.fr/wp-content/uploads/2021/02/3.png)
 
 Calcul du minimum par mois
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.min().
 
-![Jeu de données]()
+![](https://www.infolux.fr/wp-content/uploads/2021/02/4.png)
 
 Calcul du maximum par mois
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.max().
 
-![Jeu de données]()
+![](https://www.infolux.fr/wp-content/uploads/2021/02/5.png)
 
 Calcul du maximum de l’année
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.nanmax(). Cette fonction permet d’ignorer les valeurs NaN afin d’éviter de fausser les calculs statistiques.
 
-![Jeu de données]()
+![](https://www.infolux.fr/wp-content/uploads/2021/02/6.png)
 
 Calcul du minimum de l’année
 
 Pour calculer la moyenne, nous avons utilisé la librairie numpy, et la fonction np.nanmin(). Cette fonction permet d’ignorer les valeurs NaN afin d’éviter de fausser les calculs statistiques.
 
-![Jeu de données]()
+![](https://www.infolux.fr/wp-content/uploads/2021/02/7.png)
 
 Affichage des courbes par mois
 
 Pour l’affichage des courbes par mois, nous avons utilisé la librairie pyplot de matplotlib.
 Elle permet des visualisations statiques, animées et interactives.
 
-![Jeu de données]()
+![](https://www.infolux.fr/wp-content/uploads/2021/02/8.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/9.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/10.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/11.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/12.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/13.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/14.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/15.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/16.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/17.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/18.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/19.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/20.png)
+![](https://www.infolux.fr/wp-content/uploads/2021/02/21.png)
 
 
 Affichage de la courbe annuelle
