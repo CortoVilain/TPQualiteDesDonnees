@@ -18,7 +18,7 @@ De même pour la ligne 42 à la ligne 52, ainsi que pour la colonne A,B et C.
 
 De ce fait, nous avons le jeu de données suivant : 
 
-!(https://drive.google.com/file/d/1INDGKdixbXco3CfW_MUm3QCkfySZS6-n/view?usp=sharing)
+![IMAGE](https://drive.google.com/file/d/1INDGKdixbXco3CfW_MUm3QCkfySZS6-n/view?usp=sharing)
 
 
 Traitement pour obtenir des données homogènes 
